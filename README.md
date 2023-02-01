@@ -1,19 +1,19 @@
 ## Hey! 👋
-I'm Morteza, a 20 years old Web/Mobile developer.
+I'm Morteza, a 21 years old VueJS/Flutter developer.
 
-- 🧭 Check my website and know me more. [Mortezaom.Me](https://mortezaom.me)
+- 🧭 Check my website and know me more. [Mortezaom.DEV](https://mortezaom.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mortezaom&show_icons=true&count_private=true&include_all_commits=true&&theme=radical)
+![MortezaOM's GitHub stats](https://github-readme-stats.vercel.app/api?username=mortezaom&show_icons=true&count_private=true&include_all_commits=true&&theme=radical)
 
 ## Skills
-- 👨‍💻 Java, Kotlin, Android SDK, MVVM, Rx, Coroutines, Room, Retrofit, (Learning Test)
-- ⚙️ Dart, Flutter, BloC, GetX, Dio, Moor, Hive
+- 👨‍💻 VueJS, Flutter, Kotlin, Android SDK, MVVM
+- ⚙️ Dart, Flutter, JavaScript, VueJS, NodeJS
 ## Skills (For Fun)
-- 👁️ JavaScript, TypeScript, VueJS
-- 💽 NodeJS, Express, MongoDB
+- 👁️ TypeScript, Angular
+- 💽 Express, MongoDB, UI/UX Concepts
 
 ## Contact
-- [Mortezaom.Me](https://mortezaom.me)
+- [Mortezaom.DEV](https://mortezaom.dev)
 - [@Omar_morteza](https://twitter.com/omar_morteza) on Twitter
 - [@Mortezaom](https://linkedin.com/in/mortezaom) on LinkedIn
 - [@MortezOM](https://t.me/MortezOM) on Telegram
