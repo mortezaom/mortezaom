@@ -1,13 +1,13 @@
 ## Hey! 👋
-I'm Morteza, a 21 years old VueJS/Flutter developer.
+I'm Morteza, a 21 years old Web and Mobile developer.
 
 - 🧭 Check my website and know me more. [Mortezaom.DEV](https://mortezaom.dev)
 
 ![MortezaOM's GitHub stats](https://github-readme-stats.vercel.app/api?username=mortezaom&show_icons=true&count_private=true&include_all_commits=true&&theme=radical)
 
 ## Skills
-- 👨‍💻 VueJS, Flutter, Kotlin, Android SDK, MVVM
-- ⚙️ Dart, Flutter, JavaScript, VueJS, NodeJS
+- 👨‍💻 Flutter, VueJS, NodeJS, Android SDK, Laravel
+- ⚙️ Dart, JavaScript, TypeScript, PHP, Kotlin, Java 
 ## Skills (For Fun)
 - 👁️ TypeScript, Angular
 - 💽 Express, MongoDB, UI/UX Concepts
