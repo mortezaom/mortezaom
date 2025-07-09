@@ -22,7 +22,9 @@ I'm **Morteza**, a 23-year-old Web & Mobile Developer passionate about creating 
 
 ## 📊 GitHub Stats
 
-![MortezaOM's GitHub stats](https://github-readme-stats.vercel.app/api?username=mortezaom&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+![mortezaom's Stats](https://github-readme-stats.vercel.app/api?username=mortezaom&theme=gotham&show_icons=true&hide_border=false&count_private=true)
+![mortezaom's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mortezaom&theme=gotham&hide_border=false)
+![mortezaom's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mortezaom&theme=gotham&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
